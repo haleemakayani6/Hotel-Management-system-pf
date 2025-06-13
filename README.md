@@ -91,6 +91,7 @@ Enter 8 to serve additional customers or 9 to exit the program.
 
 File Structure
 cafeteria-management-system/
+
 ├── pf_project_new.cpp  # Main source code file
 └── README.md           # Project documentation
 
